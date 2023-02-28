@@ -1,0 +1,11 @@
+C:\Users\super\source\repos\AltairRealtors\AltairRealtors\bin\Debug\AltairRealtors.exe.config
+C:\Users\super\source\repos\AltairRealtors\AltairRealtors\bin\Debug\AltairRealtors.exe
+C:\Users\super\source\repos\AltairRealtors\AltairRealtors\bin\Debug\AltairRealtors.pdb
+C:\Users\super\source\repos\AltairRealtors\AltairRealtors\obj\Debug\AltairRealtors.csprojAssemblyReference.cache
+C:\Users\super\source\repos\AltairRealtors\AltairRealtors\obj\Debug\AltairRealtors.AltairRealtors.resources
+C:\Users\super\source\repos\AltairRealtors\AltairRealtors\obj\Debug\AltairRealtors.Properties.Resources.resources
+C:\Users\super\source\repos\AltairRealtors\AltairRealtors\obj\Debug\AltairRealtors.PropertyEditor.resources
+C:\Users\super\source\repos\AltairRealtors\AltairRealtors\obj\Debug\AltairRealtors.csproj.GenerateResource.cache
+C:\Users\super\source\repos\AltairRealtors\AltairRealtors\obj\Debug\AltairRealtors.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\AltairRealtors\AltairRealtors\obj\Debug\AltairRealtors.exe
+C:\Users\super\source\repos\AltairRealtors\AltairRealtors\obj\Debug\AltairRealtors.pdb

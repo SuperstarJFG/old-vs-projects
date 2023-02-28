@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomListTree", "CustomListTree\CustomListTree.csproj", "{A71A5FF4-5E28-43B8-92FC-0140A0D9A2AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A71A5FF4-5E28-43B8-92FC-0140A0D9A2AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71A5FF4-5E28-43B8-92FC-0140A0D9A2AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A71A5FF4-5E28-43B8-92FC-0140A0D9A2AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A71A5FF4-5E28-43B8-92FC-0140A0D9A2AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0B79A58-CB01-48D6-8AB0-CC37DA02EE7F}
+	EndGlobalSection
+EndGlobal

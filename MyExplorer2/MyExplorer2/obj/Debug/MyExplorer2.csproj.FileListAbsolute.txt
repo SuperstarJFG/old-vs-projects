@@ -1,0 +1,10 @@
+C:\Users\super\source\repos\MyExplorer2\MyExplorer2\obj\Debug\MyExplorer2.csprojAssemblyReference.cache
+C:\Users\super\source\repos\MyExplorer2\MyExplorer2\obj\Debug\MyExplorer2.Form1.resources
+C:\Users\super\source\repos\MyExplorer2\MyExplorer2\obj\Debug\MyExplorer2.Properties.Resources.resources
+C:\Users\super\source\repos\MyExplorer2\MyExplorer2\obj\Debug\MyExplorer2.csproj.GenerateResource.cache
+C:\Users\super\source\repos\MyExplorer2\MyExplorer2\obj\Debug\MyExplorer2.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\MyExplorer2\MyExplorer2\bin\Debug\MyExplorer2.exe.config
+C:\Users\super\source\repos\MyExplorer2\MyExplorer2\bin\Debug\MyExplorer2.exe
+C:\Users\super\source\repos\MyExplorer2\MyExplorer2\bin\Debug\MyExplorer2.pdb
+C:\Users\super\source\repos\MyExplorer2\MyExplorer2\obj\Debug\MyExplorer2.exe
+C:\Users\super\source\repos\MyExplorer2\MyExplorer2\obj\Debug\MyExplorer2.pdb

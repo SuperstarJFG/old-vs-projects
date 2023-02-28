@@ -1,0 +1,7 @@
+C:\Users\super\source\repos\FinalMatrix\FinalMatrix\obj\Debug\FinalMatrix.csprojAssemblyReference.cache
+C:\Users\super\source\repos\FinalMatrix\FinalMatrix\obj\Debug\FinalMatrix.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\FinalMatrix\FinalMatrix\bin\Debug\FinalMatrix.exe.config
+C:\Users\super\source\repos\FinalMatrix\FinalMatrix\bin\Debug\FinalMatrix.exe
+C:\Users\super\source\repos\FinalMatrix\FinalMatrix\bin\Debug\FinalMatrix.pdb
+C:\Users\super\source\repos\FinalMatrix\FinalMatrix\obj\Debug\FinalMatrix.exe
+C:\Users\super\source\repos\FinalMatrix\FinalMatrix\obj\Debug\FinalMatrix.pdb

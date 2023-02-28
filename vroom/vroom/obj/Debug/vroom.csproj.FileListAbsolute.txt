@@ -1,0 +1,10 @@
+C:\Users\super\source\repos\vroom\vroom\bin\Debug\vroom.exe.config
+C:\Users\super\source\repos\vroom\vroom\bin\Debug\vroom.exe
+C:\Users\super\source\repos\vroom\vroom\bin\Debug\vroom.pdb
+C:\Users\super\source\repos\vroom\vroom\obj\Debug\vroom.csprojAssemblyReference.cache
+C:\Users\super\source\repos\vroom\vroom\obj\Debug\vroom.Properties.Resources.resources
+C:\Users\super\source\repos\vroom\vroom\obj\Debug\vroom.csproj.GenerateResource.cache
+C:\Users\super\source\repos\vroom\vroom\obj\Debug\vroom.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\vroom\vroom\obj\Debug\vroom.exe
+C:\Users\super\source\repos\vroom\vroom\obj\Debug\vroom.pdb
+C:\Users\super\source\repos\vroom\vroom\obj\Debug\vroom.Dashboard.resources

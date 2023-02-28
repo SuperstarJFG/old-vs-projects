@@ -1,0 +1,10 @@
+C:\Users\super\source\repos\BundleArt\BundleArt\bin\Debug\BundleArt.exe.config
+C:\Users\super\source\repos\BundleArt\BundleArt\bin\Debug\BundleArt.exe
+C:\Users\super\source\repos\BundleArt\BundleArt\bin\Debug\BundleArt.pdb
+C:\Users\super\source\repos\BundleArt\BundleArt\obj\Debug\BundleArt.csprojAssemblyReference.cache
+C:\Users\super\source\repos\BundleArt\BundleArt\obj\Debug\BundleArt.Properties.Resources.resources
+C:\Users\super\source\repos\BundleArt\BundleArt\obj\Debug\BundleArt.csproj.GenerateResource.cache
+C:\Users\super\source\repos\BundleArt\BundleArt\obj\Debug\BundleArt.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\BundleArt\BundleArt\obj\Debug\BundleArt.exe
+C:\Users\super\source\repos\BundleArt\BundleArt\obj\Debug\BundleArt.pdb
+C:\Users\super\source\repos\BundleArt\BundleArt\obj\Debug\BundleArt.BundleArt.resources

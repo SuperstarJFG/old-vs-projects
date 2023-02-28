@@ -1,0 +1,7 @@
+C:\Users\super\source\repos\gradesCalc\gradesCalc\bin\Debug\gradesCalc.exe.config
+C:\Users\super\source\repos\gradesCalc\gradesCalc\bin\Debug\gradesCalc.exe
+C:\Users\super\source\repos\gradesCalc\gradesCalc\bin\Debug\gradesCalc.pdb
+C:\Users\super\source\repos\gradesCalc\gradesCalc\obj\Debug\gradesCalc.csprojAssemblyReference.cache
+C:\Users\super\source\repos\gradesCalc\gradesCalc\obj\Debug\gradesCalc.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\gradesCalc\gradesCalc\obj\Debug\gradesCalc.exe
+C:\Users\super\source\repos\gradesCalc\gradesCalc\obj\Debug\gradesCalc.pdb

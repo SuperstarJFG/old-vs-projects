@@ -1,0 +1,11 @@
+C:\Users\super\source\repos\game\game\bin\Debug\game.exe.config
+C:\Users\super\source\repos\game\game\bin\Debug\game.exe
+C:\Users\super\source\repos\game\game\bin\Debug\game.pdb
+C:\Users\super\source\repos\game\game\bin\Debug\game.xml
+C:\Users\super\source\repos\game\game\obj\Debug\game.vbprojAssemblyReference.cache
+C:\Users\super\source\repos\game\game\obj\Debug\game.Resources.resources
+C:\Users\super\source\repos\game\game\obj\Debug\game.vbproj.GenerateResource.cache
+C:\Users\super\source\repos\game\game\obj\Debug\game.exe
+C:\Users\super\source\repos\game\game\obj\Debug\game.xml
+C:\Users\super\source\repos\game\game\obj\Debug\game.pdb
+C:\Users\super\source\repos\game\game\obj\Debug\game.Form1.resources

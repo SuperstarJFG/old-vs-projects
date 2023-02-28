@@ -1,0 +1,10 @@
+C:\Users\super\source\repos\CollegeParkAutoParts2\CollegeParkAutoParts2\bin\Debug\CollegeParkAutoParts2.exe.config
+C:\Users\super\source\repos\CollegeParkAutoParts2\CollegeParkAutoParts2\bin\Debug\CollegeParkAutoParts2.exe
+C:\Users\super\source\repos\CollegeParkAutoParts2\CollegeParkAutoParts2\bin\Debug\CollegeParkAutoParts2.pdb
+C:\Users\super\source\repos\CollegeParkAutoParts2\CollegeParkAutoParts2\obj\Debug\CollegeParkAutoParts2.csprojAssemblyReference.cache
+C:\Users\super\source\repos\CollegeParkAutoParts2\CollegeParkAutoParts2\obj\Debug\CollegeParkAutoParts2.Central.resources
+C:\Users\super\source\repos\CollegeParkAutoParts2\CollegeParkAutoParts2\obj\Debug\CollegeParkAutoParts2.Properties.Resources.resources
+C:\Users\super\source\repos\CollegeParkAutoParts2\CollegeParkAutoParts2\obj\Debug\CollegeParkAutoParts2.csproj.GenerateResource.cache
+C:\Users\super\source\repos\CollegeParkAutoParts2\CollegeParkAutoParts2\obj\Debug\CollegeParkAutoParts2.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\CollegeParkAutoParts2\CollegeParkAutoParts2\obj\Debug\CollegeParkAutoParts2.exe
+C:\Users\super\source\repos\CollegeParkAutoParts2\CollegeParkAutoParts2\obj\Debug\CollegeParkAutoParts2.pdb

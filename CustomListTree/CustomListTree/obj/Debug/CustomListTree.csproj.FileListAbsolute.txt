@@ -1,0 +1,10 @@
+C:\Users\super\source\repos\CustomListTree\CustomListTree\bin\Debug\CustomListTree.exe.config
+C:\Users\super\source\repos\CustomListTree\CustomListTree\bin\Debug\CustomListTree.exe
+C:\Users\super\source\repos\CustomListTree\CustomListTree\bin\Debug\CustomListTree.pdb
+C:\Users\super\source\repos\CustomListTree\CustomListTree\obj\Debug\CustomListTree.csprojAssemblyReference.cache
+C:\Users\super\source\repos\CustomListTree\CustomListTree\obj\Debug\CustomListTree.Properties.Resources.resources
+C:\Users\super\source\repos\CustomListTree\CustomListTree\obj\Debug\CustomListTree.csproj.GenerateResource.cache
+C:\Users\super\source\repos\CustomListTree\CustomListTree\obj\Debug\CustomListTree.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\CustomListTree\CustomListTree\obj\Debug\CustomListTree.exe
+C:\Users\super\source\repos\CustomListTree\CustomListTree\obj\Debug\CustomListTree.pdb
+C:\Users\super\source\repos\CustomListTree\CustomListTree\obj\Debug\CustomListTree.PokeDex.resources
