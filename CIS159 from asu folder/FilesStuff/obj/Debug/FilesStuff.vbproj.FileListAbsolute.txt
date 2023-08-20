@@ -1,0 +1,12 @@
+C:\Users\super\source\repos\CIS159\FilesStuff\bin\Debug\FilesStuff.exe.config
+C:\Users\super\source\repos\CIS159\FilesStuff\bin\Debug\FilesStuff.exe
+C:\Users\super\source\repos\CIS159\FilesStuff\bin\Debug\FilesStuff.pdb
+C:\Users\super\source\repos\CIS159\FilesStuff\bin\Debug\FilesStuff.xml
+C:\Users\super\source\repos\CIS159\FilesStuff\obj\Debug\FilesStuff.vbprojAssemblyReference.cache
+C:\Users\super\source\repos\CIS159\FilesStuff\obj\Debug\FilesStuff.Form1.resources
+C:\Users\super\source\repos\CIS159\FilesStuff\obj\Debug\FilesStuff.Resources.resources
+C:\Users\super\source\repos\CIS159\FilesStuff\obj\Debug\FilesStuff.vbproj.GenerateResource.cache
+C:\Users\super\source\repos\CIS159\FilesStuff\obj\Debug\FilesStuff.vbproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\CIS159\FilesStuff\obj\Debug\FilesStuff.exe
+C:\Users\super\source\repos\CIS159\FilesStuff\obj\Debug\FilesStuff.xml
+C:\Users\super\source\repos\CIS159\FilesStuff\obj\Debug\FilesStuff.pdb
